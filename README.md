@@ -11,5 +11,5 @@ You can change the mode by setting `state` to `Train` or `eval`
 Training and generated outputs will be located in the model directory as specified in the param file.
 
 ## Acknowledgement
-The codes use [guided-diffusion]([https://github.com/openai/guided-diffusion]) as code base.
+The codes use [guided-diffusion](https://github.com/openai/guided-diffusion) as code base.
 
