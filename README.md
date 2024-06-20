@@ -6,4 +6,6 @@ The following command will train the network using the parameters specified in t
 ```
 python Main.py
 ```
-Training outputs will be located in the model directory as specified in the param file.
+You can change the mode by setting `state` to `Train` or `eval`
+
+Training and generated outputs will be located in the model directory as specified in the param file.
