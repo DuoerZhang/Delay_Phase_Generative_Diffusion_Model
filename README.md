@@ -1,5 +1,5 @@
 # Delay_Phase_Generative_Diffusion_Model
-the Delay Phase Generative Diffusion Model (DPGDM) was produced to synthesize delayed phase images from the arterial phase and portal-venous phase images from contrast-enhanced multiphasic liver CT. 
+the Delay Phase Generative Diffusion Model (DPGDM) was produced to synthesize delayed phase images from the arterial phase and portal-venous phase images of contrast-enhanced multiphasic liver CT. 
 
 # Usage
 The following command will train the network using the parameters specified in the file:
